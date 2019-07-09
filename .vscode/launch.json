@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}\\Money_to_Letters.js"
+            "program": "${workspaceFolder}\\Money\\Money_to_Words.js"
         }
     ]
 }
